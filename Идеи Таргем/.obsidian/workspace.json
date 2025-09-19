@@ -1,0 +1,244 @@
+{
+  "main": {
+    "id": "8e49446cf1fafcbd",
+    "type": "split",
+    "children": [
+      {
+        "id": "88fccc03005d11a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "98013865e6abb60e",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Игра.canvas",
+                "viewState": {
+                  "x": 145.6417686539951,
+                  "y": -110.79476364617537,
+                  "zoom": -1.898831639471233
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Игра"
+            }
+          },
+          {
+            "id": "8048fd1cf3f10d97",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Референсы.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Референсы"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cbdd3e2f1fd617d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "16e99902a0e2ddd0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "931e0395b686210d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "e1c7dccdda959ec6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "b4f301c09bc1c21a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 297.5
+  },
+  "right": {
+    "id": "cf5e6f03bb072bcb",
+    "type": "split",
+    "children": [
+      {
+        "id": "5445b31265b059c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0aceb4d448db2282",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки"
+            }
+          },
+          {
+            "id": "7b752df9b2c4fef4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки"
+            }
+          },
+          {
+            "id": "2044514e96bf655a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "d1a9c85e85a7f2fc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Добро пожаловать.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура Добро пожаловать"
+            }
+          },
+          {
+            "id": "e39b665f5fa71f3c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false,
+      "obsidian-excalidraw-plugin:Создать новый чертеж": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "98013865e6abb60e",
+  "lastOpenFiles": [
+    "Excalidraw/Референсы.md",
+    "Снаряжение.md",
+    "Игра.canvas",
+    "Тренировочные ямы.md",
+    "Excalidraw/Карта города.md",
+    "Images/Pasted Image 20250919172920_116.png",
+    "Images/Pasted Image 20250919172840_816.png",
+    "Images/Pasted Image 20250919171606_135.png",
+    "Здания.md",
+    "Документы/Концепт документ Raid Into The Deep.md",
+    "Images/Pasted Image 20250919164854_454.png",
+    "Images/Pasted Image 20250919164717_422.png",
+    "Images/Pasted Image 20250919164647_187.png",
+    "Images/Pasted Image 20250919164515_690.png",
+    "Images/Pasted Image 20250919164358_014.png",
+    "Images/Pasted Image 20250919164349_751.png",
+    "Images/Pasted Image 20250919164325_467.png",
+    "Награда за бой.md",
+    "Уникальный враг.md",
+    "Обычный враг.md",
+    "Побег.md",
+    "Интерфейс в забеге.md",
+    "Отдых.md",
+    "Эффекты.md",
+    "Расходники.md",
+    "Артефакты.md",
+    "Команда.md",
+    "Игрок.md",
+    "Случайная встреча.md",
+    "Прогресс прохождения.md",
+    "Командный блок.md",
+    "Жилые дома.md",
+    "Кузница.md",
+    "Активные навыки.md",
+    "Пассивные навыки.md",
+    "Действия.md",
+    "Excalidraw",
+    "Игра",
+    "Документы",
+    "Images",
+    "Пошаговая стратегия",
+    "Тавер дефенс",
+    "Визуальная новелла",
+    "Слэшер"
+  ]
+}
