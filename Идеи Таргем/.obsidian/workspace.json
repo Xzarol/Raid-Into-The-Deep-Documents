@@ -4,24 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "88fccc03005d11a1",
+        "id": "c654b8d945f2e479",
         "type": "tabs",
         "children": [
           {
-            "id": "98013865e6abb60e",
+            "id": "783924cee7c98454",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Игра.canvas",
-                "viewState": {
-                  "x": 320.47707611595416,
-                  "y": 526.2961939277861,
-                  "zoom": -2.312256287781776
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Игра"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
             }
           }
         ]
@@ -182,10 +175,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "98013865e6abb60e",
+  "active": "783924cee7c98454",
   "lastOpenFiles": [
-    "Интерфейс в забеге.md",
     "Excalidraw/Референсы.md",
+    "Интерфейс в забеге.md",
+    "conflict-files-obsidian-git.md",
     "Игра.canvas",
     "Игрок.md",
     "Снаряжение.md",
@@ -219,7 +213,6 @@
     "Кузница.md",
     "Активные навыки.md",
     "Пассивные навыки.md",
-    "Действия.md",
     "Excalidraw",
     "Игра",
     "Документы",
