@@ -11,17 +11,14 @@
             "id": "98013865e6abb60e",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Игра.canvas",
-                "viewState": {
-                  "x": 145.6417686539951,
-                  "y": -110.79476364617537,
-                  "zoom": -1.898831639471233
-                }
+                "file": "Игрок.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Игра"
+              "icon": "lucide-file",
+              "title": "Игрок"
             }
           },
           {
@@ -196,9 +193,9 @@
   },
   "active": "98013865e6abb60e",
   "lastOpenFiles": [
+    "Игра.canvas",
     "Excalidraw/Референсы.md",
     "Снаряжение.md",
-    "Игра.canvas",
     "Тренировочные ямы.md",
     "Excalidraw/Карта города.md",
     "Images/Pasted Image 20250919172920_116.png",
