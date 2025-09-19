@@ -11,10 +11,17 @@
             "id": "783924cee7c98454",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "type": "canvas",
+              "state": {
+                "file": "Игра.canvas",
+                "viewState": {
+                  "x": 90.02768403975017,
+                  "y": 109.10237512684407,
+                  "zoom": -2.312256287781776
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Игра"
             }
           }
         ]
