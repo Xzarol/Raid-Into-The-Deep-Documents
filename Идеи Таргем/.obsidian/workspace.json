@@ -22,15 +22,27 @@
             }
           },
           {
-            "id": "a2dfe401e3b31d27",
+            "id": "ff2d1f0e9c8b6e54",
             "type": "leaf",
             "state": {
               "type": "image",
               "state": {
-                "file": "Images/Концепт интерфейса забега.png"
+                "file": "Images/Концепт экрана боя.png"
               },
               "icon": "lucide-image",
-              "title": "Концепт интерфейса забега"
+              "title": "Концепт экрана боя"
+            }
+          },
+          {
+            "id": "f94efbdd47044ece",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/Концепт карты забега.png"
+              },
+              "icon": "lucide-image",
+              "title": "Концепт карты забега"
             }
           },
           {
@@ -62,8 +74,7 @@
               "title": "Игра"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -221,11 +232,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "03aba3f2be660fae",
+  "active": "783924cee7c98454",
   "lastOpenFiles": [
+    "Images/Концепт экрана боя.png",
     "Документы/Концепт документ Raid Into The Deep.md",
-    "Images/Концепт интерфейса забега.png",
     "Excalidraw/Референсы.md",
+    "Images/Концепт карты забега.png",
+    "Документы/Дизайн документ Raid Into The Deep.md",
+    "Images/Концепт интерфейса забега.png",
+    "Images/Pasted Image 20250921162129_246.png",
     "Images/Концепт поселения.png",
     "Документы/Pasted image 20250921161701.png.md",
     "Excalidraw/Концепт поселения.md",
@@ -244,9 +259,6 @@
     "Images/Pasted Image 20250919171606_135.png",
     "Images/Pasted Image 20250919164854_454.png",
     "Images/Pasted Image 20250919164717_422.png",
-    "Images/Pasted Image 20250919164647_187.png",
-    "Images/Pasted Image 20250919164515_690.png",
-    "Images/Pasted Image 20250919164358_014.png",
     "Награда за бой.md",
     "Уникальный враг.md",
     "Обычный враг.md",
@@ -258,7 +270,6 @@
     "Команда.md",
     "Случайная встреча.md",
     "Прогресс прохождения.md",
-    "Командный блок.md",
     "Excalidraw",
     "Игра",
     "Документы",
