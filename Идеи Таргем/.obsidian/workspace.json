@@ -50,7 +50,8 @@
               "title": "Игра"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -208,11 +209,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "783924cee7c98454",
+  "active": "03aba3f2be660fae",
   "lastOpenFiles": [
+    "Документы/Концепт документ Raid Into The Deep.md",
     "Excalidraw/Референсы.md",
     "Игра.canvas",
-    "Документы/Концепт документ Raid Into The Deep.md",
     "Документы/Концепт Raid Into The Deep.md",
     "Здания.md",
     "Тест.md",
