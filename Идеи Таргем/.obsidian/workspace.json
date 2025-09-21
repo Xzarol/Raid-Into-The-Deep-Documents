@@ -20,6 +20,20 @@
             }
           },
           {
+            "id": "03aba3f2be660fae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Документы/Концепт документ Raid Into The Deep.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Концепт документ Raid Into The Deep"
+            }
+          },
+          {
             "id": "2486f3ae93f90335",
             "type": "leaf",
             "state": {
@@ -27,9 +41,9 @@
               "state": {
                 "file": "Игра.canvas",
                 "viewState": {
-                  "x": 614.5,
-                  "y": -173,
-                  "zoom": -2.312256287781776
+                  "x": 466.74380689738166,
+                  "y": -716.0968639870955,
+                  "zoom": -0.3122562877817762
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -196,9 +210,9 @@
   },
   "active": "783924cee7c98454",
   "lastOpenFiles": [
+    "Документы/Концепт документ Raid Into The Deep.md",
     "Игра.canvas",
     "Excalidraw/Референсы.md",
-    "Документы/Концепт документ Raid Into The Deep.md",
     "Здания.md",
     "Документы/Концепт документ игры Raid Into The Deep.md",
     "Тест.md",
