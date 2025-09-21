@@ -11,17 +11,14 @@
             "id": "783924cee7c98454",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Игра.canvas",
-                "viewState": {
-                  "x": -58.74730630952365,
-                  "y": -50.85479360219849,
-                  "zoom": -2.978922954448443
-                }
+                "file": "Документы/Концепт документ Raid Into The Deep.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Игра"
+              "icon": "lucide-file",
+              "title": "Концепт документ Raid Into The Deep"
             }
           }
         ]
