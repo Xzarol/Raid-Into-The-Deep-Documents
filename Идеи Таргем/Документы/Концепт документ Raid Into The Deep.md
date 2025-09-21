@@ -5,5 +5,5 @@
 
 Обзор концепции
 
-Raid Into The Deep
+**Raid Into The Deep** - это смесь пошаговой  
 
