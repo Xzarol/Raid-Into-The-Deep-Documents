@@ -41,8 +41,8 @@
               "state": {
                 "file": "Игра.canvas",
                 "viewState": {
-                  "x": 1538.1773442596502,
-                  "y": -414.43763733813114,
+                  "x": 208.93945917130705,
+                  "y": -45.46776679183151,
                   "zoom": -0.9789229544484428
                 }
               },
@@ -50,8 +50,7 @@
               "title": "Игра"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,12 +208,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "03aba3f2be660fae",
+  "active": "783924cee7c98454",
   "lastOpenFiles": [
-    "Документы/Концепт Raid Into The Deep.md",
     "Игра.canvas",
-    "Документы/Концепт документ Raid Into The Deep.md",
     "Excalidraw/Референсы.md",
+    "Документы/Концепт документ Raid Into The Deep.md",
+    "Документы/Концепт Raid Into The Deep.md",
     "Здания.md",
     "Тест.md",
     "Интерфейс в забеге.md",
