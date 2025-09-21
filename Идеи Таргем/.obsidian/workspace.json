@@ -25,14 +25,12 @@
             "id": "03aba3f2be660fae",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Документы/Концепт Raid Into The Deep.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Референсы.md"
               },
-              "icon": "lucide-file",
-              "title": "Концепт Raid Into The Deep"
+              "icon": "excalidraw-icon",
+              "title": "Референсы"
             }
           },
           {
@@ -43,8 +41,8 @@
               "state": {
                 "file": "Игра.canvas",
                 "viewState": {
-                  "x": 186.86418859345946,
-                  "y": -451.49225935478705,
+                  "x": 1538.1773442596502,
+                  "y": -414.43763733813114,
                   "zoom": -0.9789229544484428
                 }
               },
@@ -52,7 +50,8 @@
               "title": "Игра"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -210,10 +209,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "783924cee7c98454",
+  "active": "03aba3f2be660fae",
   "lastOpenFiles": [
-    "Игра.canvas",
     "Документы/Концепт Raid Into The Deep.md",
+    "Игра.canvas",
     "Документы/Концепт документ Raid Into The Deep.md",
     "Excalidraw/Референсы.md",
     "Здания.md",
