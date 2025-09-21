@@ -41,9 +41,9 @@
               "state": {
                 "file": "Игра.canvas",
                 "viewState": {
-                  "x": 208.93945917130705,
-                  "y": -45.46776679183151,
-                  "zoom": -0.9789229544484428
+                  "x": -1057.9659917033932,
+                  "y": 540.519688445806,
+                  "zoom": 0.021077045551557094
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -210,8 +210,8 @@
   },
   "active": "783924cee7c98454",
   "lastOpenFiles": [
-    "Игра.canvas",
     "Excalidraw/Референсы.md",
+    "Игра.canvas",
     "Документы/Концепт документ Raid Into The Deep.md",
     "Документы/Концепт Raid Into The Deep.md",
     "Здания.md",
