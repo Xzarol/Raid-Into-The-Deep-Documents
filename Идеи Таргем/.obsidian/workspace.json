@@ -18,6 +18,23 @@
               "icon": "excalidraw-icon",
               "title": "Референсы"
             }
+          },
+          {
+            "id": "2486f3ae93f90335",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Игра.canvas",
+                "viewState": {
+                  "x": 614.5,
+                  "y": -173,
+                  "zoom": -2.312256287781776
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Игра"
+            }
           }
         ]
       }
@@ -179,10 +196,10 @@
   },
   "active": "783924cee7c98454",
   "lastOpenFiles": [
-    "Документы/Концепт документ Raid Into The Deep.md",
     "Игра.canvas",
-    "Здания.md",
     "Excalidraw/Референсы.md",
+    "Документы/Концепт документ Raid Into The Deep.md",
+    "Здания.md",
     "Документы/Концепт документ игры Raid Into The Deep.md",
     "Тест.md",
     "Интерфейс в забеге.md",
