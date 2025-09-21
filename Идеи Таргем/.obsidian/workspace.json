@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "a2dfe401e3b31d27",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/Концепт интерфейса забега.png"
+              },
+              "icon": "lucide-image",
+              "title": "Концепт интерфейса забега"
+            }
+          },
+          {
             "id": "03aba3f2be660fae",
             "type": "leaf",
             "state": {
@@ -209,12 +221,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "03aba3f2be660fae",
+  "active": "a2dfe401e3b31d27",
   "lastOpenFiles": [
-    "Images/Концепт поселения.png",
     "Документы/Концепт документ Raid Into The Deep.md",
-    "Документы/Pasted image 20250921161701.png.md",
+    "Images/Концепт интерфейса забега.png",
     "Excalidraw/Референсы.md",
+    "Images/Концепт поселения.png",
+    "Документы/Pasted image 20250921161701.png.md",
     "Excalidraw/Концепт поселения.md",
     "Игра.canvas",
     "Документы/Концепт Raid Into The Deep.md",
@@ -234,7 +247,6 @@
     "Images/Pasted Image 20250919164647_187.png",
     "Images/Pasted Image 20250919164515_690.png",
     "Images/Pasted Image 20250919164358_014.png",
-    "Images/Pasted Image 20250919164349_751.png",
     "Награда за бой.md",
     "Уникальный враг.md",
     "Обычный враг.md",
