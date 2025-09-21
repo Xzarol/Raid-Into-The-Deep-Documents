@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "c6c7e9144900cacd",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/Концепт послеения.png"
+              },
+              "icon": "lucide-image",
+              "title": "Концепт послеения"
+            }
+          },
+          {
             "id": "03aba3f2be660fae",
             "type": "leaf",
             "state": {
@@ -209,11 +221,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "03aba3f2be660fae",
+  "active": "c6c7e9144900cacd",
   "lastOpenFiles": [
     "Документы/Концепт документ Raid Into The Deep.md",
-    "Excalidraw/Концепт поселения.md",
+    "Images/Концепт послеения.png",
     "Excalidraw/Референсы.md",
+    "Excalidraw/Концепт поселения.md",
     "Игра.canvas",
     "Документы/Концепт Raid Into The Deep.md",
     "Здания.md",
@@ -233,7 +246,6 @@
     "Images/Pasted Image 20250919164515_690.png",
     "Images/Pasted Image 20250919164358_014.png",
     "Images/Pasted Image 20250919164349_751.png",
-    "Images/Pasted Image 20250919164325_467.png",
     "Награда за бой.md",
     "Уникальный враг.md",
     "Обычный враг.md",
@@ -247,7 +259,6 @@
     "Прогресс прохождения.md",
     "Командный блок.md",
     "Жилые дома.md",
-    "Кузница.md",
     "Excalidraw",
     "Игра",
     "Документы",
