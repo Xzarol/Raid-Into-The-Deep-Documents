@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c654b8d945f2e479",
+        "id": "d41ca65db11b7aa1",
         "type": "tabs",
         "children": [
           {
-            "id": "046761deae8529b4",
+            "id": "d6a4d52f245f84d0",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -175,10 +175,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "046761deae8529b4",
+  "active": "d6a4d52f245f84d0",
   "lastOpenFiles": [
-    "Документы/Концепт документ Raid Into The Deep.md",
     "Игра.canvas",
+    "Документы/Концепт документ Raid Into The Deep.md",
     "Excalidraw/Референсы.md",
     "Images/Концепт карты забега.png",
     "Images/Концепт экрана боя.png",
