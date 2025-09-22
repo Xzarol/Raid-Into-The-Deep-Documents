@@ -11,10 +11,14 @@
             "id": "d6a4d52f245f84d0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Документы/Концепт документ Raid Into The Deep.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "Концепт документ Raid Into The Deep"
             }
           }
         ]
