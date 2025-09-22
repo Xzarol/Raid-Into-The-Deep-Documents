@@ -8,56 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ff2d1f0e9c8b6e54",
+            "id": "046761deae8529b4",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "Images/Концепт экрана боя.png"
-              },
-              "icon": "lucide-image",
-              "title": "Концепт экрана боя"
-            }
-          },
-          {
-            "id": "f94efbdd47044ece",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Images/Концепт карты забега.png"
-              },
-              "icon": "lucide-image",
-              "title": "Концепт карты забега"
-            }
-          },
-          {
-            "id": "03aba3f2be660fae",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Референсы.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Референсы"
-            }
-          },
-          {
-            "id": "2486f3ae93f90335",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Игра.canvas",
-                "viewState": {
-                  "x": -1057.9659917033932,
-                  "y": 540.519688445806,
-                  "zoom": 0.021077045551557094
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Игра"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
             }
           }
         ]
@@ -218,20 +175,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ff2d1f0e9c8b6e54",
+  "active": "046761deae8529b4",
   "lastOpenFiles": [
-    "Бой с боссом.md",
+    "Документы/Концепт документ Raid Into The Deep.md",
     "Игра.canvas",
-    "Images/Концепт экрана боя.png",
-    "Images/Концепт карты забега.png",
     "Excalidraw/Референсы.md",
+    "Images/Концепт карты забега.png",
+    "Images/Концепт экрана боя.png",
+    "Бой с боссом.md",
     "Гигантская разросшаяся мухоловка.md",
     "Жилые дома.md",
     "Здания.md",
     "Кузница.md",
     "Навыки.md",
     "Награда за бой.md",
-    "Документы/Концепт документ Raid Into The Deep.md",
     "Документы/Дизайн документ Raid Into The Deep.md",
     "Images/Концепт интерфейса забега.png",
     "Images/Pasted Image 20250921162129_246.png",
