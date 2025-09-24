@@ -118,7 +118,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -276,14 +276,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "975630d017a4d84d",
+  "active": "73f46d45fe17957b",
   "lastOpenFiles": [
+    "Персонажи/Персонажи.md",
     "Images/Модульное окно дерева прокачки.png",
     "Images/Модульное окно жилого помещения.png",
     "Город/Жилые помещения.md",
     "Excalidraw/Персонаж.md",
     "Игра.canvas",
-    "Персонажи/Персонажи.md",
     "Персонажи/Характеристики.md",
     "Город/Тренировочные ямы.md",
     "Images/Лист персонажа.png",
