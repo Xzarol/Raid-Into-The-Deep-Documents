@@ -75,12 +75,14 @@
             "id": "db0324f3a025a80f",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Здания.md"
+                "file": "Город/Жилые помещения.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Здания"
+              "icon": "lucide-file",
+              "title": "Жилые помещения"
             }
           }
         ],
@@ -244,14 +246,14 @@
   },
   "active": "db0324f3a025a80f",
   "lastOpenFiles": [
+    "Город/Город.md",
+    "Игра.canvas",
+    "Excalidraw/Здания.md",
     "Город/Кузница.md",
     "Images/Модульное окно жилого помещения.png",
-    "Excalidraw/Здания.md",
     "Images/Окно для выбора снаряжения на ковку.png",
     "Images/Модульное окно кузницы.png",
     "Город/Жилые помещения.md",
-    "Игра.canvas",
-    "Город/Город.md",
     "Images/Концепт поселения.png",
     "Images/Модульное окно жилого здания.png",
     "Город/Склад.md",
