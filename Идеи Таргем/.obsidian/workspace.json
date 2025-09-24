@@ -15,8 +15,8 @@
               "state": {
                 "file": "Игра.canvas",
                 "viewState": {
-                  "x": -237.63024950195685,
-                  "y": -448.1395918662967,
+                  "x": -227.57972622036334,
+                  "y": -419.6696883293125,
                   "zoom": -0.6455896211151095
                 }
               },
@@ -182,12 +182,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2486f3ae93f90335",
+  "active": "931e0395b686210d",
   "lastOpenFiles": [
+    "Город",
+    "Город/Здания.md",
+    "Игра.canvas",
     "Excalidraw/Референсы.md",
     "Images/Концепт карты забега.png",
     "Images/Концепт экрана боя.png",
-    "Игра.canvas",
     "Документы/Концепт документ Raid Into The Deep.md",
     "Фич Лист.md",
     "Документы/Концепция игры Raid Into The Deep.md",
@@ -198,7 +200,6 @@
     "Документы/Pasted image 20250921161701.png.md",
     "Excalidraw/Концепт поселения.md",
     "Документы/Концепт Raid Into The Deep.md",
-    "Здания.md",
     "Тест.md",
     "Интерфейс в забеге.md",
     "conflict-files-obsidian-git.md",
