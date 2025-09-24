@@ -15,13 +15,39 @@
               "state": {
                 "file": "Игра.canvas",
                 "viewState": {
-                  "x": 565.6169201730393,
-                  "y": -511.8449244742708,
+                  "x": -154.38295775664824,
+                  "y": -212.64491226723953,
                   "zoom": -1
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Игра"
+            }
+          },
+          {
+            "id": "34523fcd1bbc601a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Город/Город.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Город"
+            }
+          },
+          {
+            "id": "bdd08a02d9e76f4d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Референсы.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Референсы"
             }
           },
           {
@@ -38,7 +64,8 @@
               "title": "Действия в бою"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -196,10 +223,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2486f3ae93f90335",
+  "active": "bdd08a02d9e76f4d",
   "lastOpenFiles": [
-    "Персонажи/Действия в бою.md",
+    "Город/Город.md",
     "Игра.canvas",
+    "Персонажи/Действия в бою.md",
     "Игрок/Игрок.md",
     "Без боя",
     "Случайные события",
