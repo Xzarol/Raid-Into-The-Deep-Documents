@@ -39,20 +39,17 @@
             }
           },
           {
-            "id": "de392fd3af63561c",
+            "id": "d99b3a9bdcb93ffc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Игра.canvas",
-                "viewState": {
-                  "x": 502.078754889632,
-                  "y": -642.0781425401264,
-                  "zoom": -0.4722699239665366
-                }
+                "file": "Персонажи/Персонажи.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Игра"
+              "icon": "lucide-file",
+              "title": "Персонажи"
             }
           }
         ],
@@ -214,13 +211,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "de392fd3af63561c",
+  "active": "d99b3a9bdcb93ffc",
   "lastOpenFiles": [
-    "Персонажи/Персонажи.md",
     "Бой/Бой.md",
+    "Игра.canvas",
+    "Персонажи/Персонажи.md",
     "Документы/Концепция игры Raid Into The Deep.md",
     "Документы/Концепт Raid Into The Deep.md",
-    "Игра.canvas",
     "Images/Модульное окно выбора оружия для ковки.png",
     "Images/Модульное окно кузницы.png",
     "Excalidraw/Здания.md",
