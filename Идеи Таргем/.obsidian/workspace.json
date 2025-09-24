@@ -25,17 +25,14 @@
             "id": "7bae39b95dcbf6d7",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Игра.canvas",
-                "viewState": {
-                  "x": -765.695324893925,
-                  "y": -452.81046516948606,
-                  "zoom": -0.8056032572998699
-                }
+                "file": "Город/Кузница.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Игра"
+              "icon": "lucide-file",
+              "title": "Кузница"
             }
           },
           {
@@ -89,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -247,13 +244,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "931e0395b686210d",
+  "active": "652b73a39e4f94eb",
   "lastOpenFiles": [
-    "Персонажи/Оружие.md",
     "Город/Кузница.md",
+    "Игра.canvas",
+    "Персонажи/Оружие.md",
     "Документы/Концепция игры Raid Into The Deep.md",
     "Документы/Концепт Raid Into The Deep.md",
-    "Игра.canvas",
     "Images/Модульное окно выбора оружия для ковки.png",
     "Город/Прогресс прохождения.md",
     "Город/Здания.md",
