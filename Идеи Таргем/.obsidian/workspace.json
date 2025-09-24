@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Город/Кузница.md",
+                "file": "Персонажи/Оружие.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Кузница"
+              "title": "Оружие"
             }
           },
           {
@@ -29,8 +29,8 @@
               "state": {
                 "file": "Игра.canvas",
                 "viewState": {
-                  "x": 243.87820943627133,
-                  "y": -605.22526455687,
+                  "x": -765.695324893925,
+                  "y": -452.81046516948606,
                   "zoom": -0.8056032572998699
                 }
               },
@@ -88,7 +88,8 @@
               "title": "Кузница"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -141,8 +142,7 @@
               "title": "Закладки"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -247,12 +247,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2486f3ae93f90335",
+  "active": "931e0395b686210d",
   "lastOpenFiles": [
+    "Персонажи/Оружие.md",
+    "Город/Кузница.md",
     "Документы/Концепция игры Raid Into The Deep.md",
     "Документы/Концепт Raid Into The Deep.md",
     "Игра.canvas",
-    "Город/Кузница.md",
     "Images/Модульное окно выбора оружия для ковки.png",
     "Город/Прогресс прохождения.md",
     "Город/Здания.md",
@@ -288,7 +289,6 @@
     "Excalidraw/Концепт поселения.md",
     "Тест.md",
     "conflict-files-obsidian-git.md",
-    "Персонажи/Снаряжение.md",
     "Город/Тренировочные ямы.md",
     "Excalidraw/Карта города.md",
     "Бой/Награда за бой.md",
