@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "17a103129969aef9",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/Модульное окно кузницы.png"
+              },
+              "icon": "lucide-image",
+              "title": "Модульное окно кузницы"
+            }
+          },
+          {
             "id": "db0324f3a025a80f",
             "type": "leaf",
             "state": {
@@ -33,8 +45,7 @@
               "title": "Здания"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -192,13 +203,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "db0324f3a025a80f",
+  "active": "2486f3ae93f90335",
   "lastOpenFiles": [
+    "Excalidraw/Здания.md",
     "Images/Модульное окно кузницы.png",
+    "Город/Кузница.md",
     "Город/Жилые помещения.md",
     "Images/Модульное окно жилого помещения.png",
-    "Город/Кузница.md",
-    "Excalidraw/Здания.md",
     "Игра.canvas",
     "Город/Город.md",
     "Images/Концепт поселения.png",
@@ -234,7 +245,6 @@
     "Город/Тренировочные ямы.md",
     "Excalidraw/Карта города.md",
     "Images/Pasted Image 20250919172920_116.png",
-    "Images/Pasted Image 20250919172840_816.png",
     "Бой/Награда за бой.md",
     "Бой/Уникальный враг.md",
     "Excalidraw",
