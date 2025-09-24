@@ -53,6 +53,18 @@
             }
           },
           {
+            "id": "cfc2f4824ddb830c",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/Лист персонажа.png"
+              },
+              "icon": "lucide-image",
+              "title": "Лист персонажа"
+            }
+          },
+          {
             "id": "d99b3a9bdcb93ffc",
             "type": "leaf",
             "state": {
@@ -103,7 +115,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -261,13 +273,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d99b3a9bdcb93ffc",
+  "active": "1e5c796338e05646",
   "lastOpenFiles": [
-    "Excalidraw/Здания.md",
+    "Images/Лист персонажа.png",
+    "Персонажи/Персонажи.md",
     "Excalidraw/Персонаж.md",
+    "Excalidraw/Здания.md",
     "Images/Модульное окно выбора оружия для ковки.png",
     "Бой/Бой.md",
-    "Персонажи/Персонажи.md",
     "Images/Модульное окно дерева прокачки.png",
     "Город/Жилые помещения.md",
     "Игра.canvas",
@@ -302,7 +315,6 @@
     "Документы/Концепт документ Raid Into The Deep.md",
     "Фич Лист.md",
     "Документы/Дизайн документ Raid Into The Deep.md",
-    "Images/Концепт интерфейса забега.png",
     "Документы/Pasted image 20250921161701.png.md",
     "Excalidraw/Концепт поселения.md",
     "Тест.md",
