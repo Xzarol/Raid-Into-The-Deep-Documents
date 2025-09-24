@@ -82,10 +82,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Здания.md"
+                "file": "Excalidraw/Персонаж.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Здания"
+              "title": "Персонаж"
             }
           },
           {
@@ -115,7 +115,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -273,16 +273,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1e5c796338e05646",
+  "active": "0aaf5d8ab9317791",
   "lastOpenFiles": [
-    "Images/Лист персонажа.png",
-    "Персонажи/Персонажи.md",
-    "Excalidraw/Персонаж.md",
     "Excalidraw/Здания.md",
-    "Images/Модульное окно выбора оружия для ковки.png",
-    "Бой/Бой.md",
-    "Images/Модульное окно дерева прокачки.png",
+    "Персонажи/Персонажи.md",
     "Город/Жилые помещения.md",
+    "Excalidraw/Персонаж.md",
+    "Images/Лист персонажа.png",
+    "Бой/Бой.md",
+    "Images/Модульное окно выбора оружия для ковки.png",
+    "Images/Модульное окно дерева прокачки.png",
     "Игра.canvas",
     "Документы/Концепция игры Raid Into The Deep.md",
     "Документы/Концепт Raid Into The Deep.md",
