@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "280dd6b4ceeaa6ba",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/Модульное окно кузницы.png"
+              },
+              "icon": "lucide-image",
+              "title": "Модульное окно кузницы"
+            }
+          },
+          {
             "id": "652b73a39e4f94eb",
             "type": "leaf",
             "state": {
@@ -33,6 +45,18 @@
               },
               "icon": "lucide-file",
               "title": "Жилые помещения"
+            }
+          },
+          {
+            "id": "0a7528290bdb5d51",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/Модульное окно жилого помещения.png"
+              },
+              "icon": "lucide-image",
+              "title": "Модульное окно жилого помещения"
             }
           },
           {
@@ -206,13 +230,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "db0324f3a025a80f",
+  "active": "652b73a39e4f94eb",
   "lastOpenFiles": [
-    "Город/Жилые помещения.md",
-    "Excalidraw/Здания.md",
-    "Город/Кузница.md",
     "Images/Модульное окно кузницы.png",
+    "Город/Кузница.md",
+    "Excalidraw/Здания.md",
     "Images/Модульное окно жилого помещения.png",
+    "Город/Жилые помещения.md",
     "Игра.canvas",
     "Город/Город.md",
     "Images/Концепт поселения.png",
