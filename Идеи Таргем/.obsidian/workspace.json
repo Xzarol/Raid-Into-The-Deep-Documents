@@ -22,15 +22,17 @@
             }
           },
           {
-            "id": "17a103129969aef9",
+            "id": "652b73a39e4f94eb",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Images/Модульное окно кузницы.png"
+                "file": "Город/Жилые помещения.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Модульное окно кузницы"
+              "icon": "lucide-file",
+              "title": "Жилые помещения"
             }
           },
           {
@@ -205,10 +207,10 @@
   },
   "active": "2486f3ae93f90335",
   "lastOpenFiles": [
+    "Город/Жилые помещения.md",
+    "Город/Кузница.md",
     "Excalidraw/Здания.md",
     "Images/Модульное окно кузницы.png",
-    "Город/Кузница.md",
-    "Город/Жилые помещения.md",
     "Images/Модульное окно жилого помещения.png",
     "Игра.canvas",
     "Город/Город.md",
