@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Снаряжение",
+                "query": "tag:#возможные_фичи",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +106,8 @@
               "title": "Закладки"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -211,11 +212,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d99b3a9bdcb93ffc",
+  "active": "e1c7dccdda959ec6",
   "lastOpenFiles": [
+    "Город/Жилые помещения.md",
+    "Персонажи/Персонажи.md",
     "Бой/Бой.md",
     "Игра.canvas",
-    "Персонажи/Персонажи.md",
     "Документы/Концепция игры Raid Into The Deep.md",
     "Документы/Концепт Raid Into The Deep.md",
     "Images/Модульное окно выбора оружия для ковки.png",
@@ -228,7 +230,6 @@
     "Персонажи/Оружие.md",
     "Город/Прогресс прохождения.md",
     "Город/Здания.md",
-    "Город/Жилые помещения.md",
     "Images/Окно для выбора снаряжения на ковку.png",
     "Excalidraw/Референсы.md",
     "Images/Модульное окно жилого помещения.png",
