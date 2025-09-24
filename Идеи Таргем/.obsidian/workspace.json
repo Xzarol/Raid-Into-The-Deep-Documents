@@ -39,20 +39,16 @@
             "id": "34523fcd1bbc601a",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "excalidraw",
               "state": {
-                "file": "Игра.canvas",
-                "viewState": {
-                  "x": -552.8954695584782,
-                  "y": -528.100499898912,
-                  "zoom": 0.5277300760334633
-                }
+                "file": "Excalidraw/Drawing 2025-09-24 20.33.12.excalidraw.md"
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Игра"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-09-24 20.33.12.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -210,11 +206,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2486f3ae93f90335",
+  "active": "34523fcd1bbc601a",
   "lastOpenFiles": [
-    "Город/Город.md",
-    "Город/Жилые помещения.md",
     "Игра.canvas",
+    "Город/Жилые помещения.md",
+    "Город/Кузница.md",
+    "Город/Город.md",
     "Images/Концепт поселения.png",
     "Excalidraw/Drawing 2025-09-24 20.33.12.excalidraw.md",
     "Images/Модульное окно жилого здания.png",
@@ -254,7 +251,6 @@
     "Images/Pasted Image 20250919164854_454.png",
     "Бой/Награда за бой.md",
     "Бой/Уникальный враг.md",
-    "Бой/Обычный враг.md",
     "Excalidraw",
     "Игра",
     "Документы"
