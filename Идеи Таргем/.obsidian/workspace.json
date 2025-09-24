@@ -53,6 +53,18 @@
             }
           },
           {
+            "id": "17499da13d6248d8",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/Модульное окно дерева прокачки.png"
+              },
+              "icon": "lucide-image",
+              "title": "Модульное окно дерева прокачки"
+            }
+          },
+          {
             "id": "4af6b32c16c3e727",
             "type": "leaf",
             "state": {
@@ -79,7 +91,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -237,8 +249,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4af6b32c16c3e727",
+  "active": "d99b3a9bdcb93ffc",
   "lastOpenFiles": [
+    "Images/Модульное окно дерева прокачки.png",
     "Персонажи/Персонажи.md",
     "Excalidraw/Drawing 2025-09-24 23.36.40.excalidraw.md",
     "Бой/Бой.md",
@@ -281,7 +294,6 @@
     "Документы/Pasted image 20250921161701.png.md",
     "Excalidraw/Концепт поселения.md",
     "Тест.md",
-    "conflict-files-obsidian-git.md",
     "Excalidraw",
     "Игра",
     "Документы"
