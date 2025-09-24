@@ -15,16 +15,31 @@
               "state": {
                 "file": "Игра.canvas",
                 "viewState": {
-                  "x": 1782.0931241631838,
-                  "y": -434.54056970599163,
-                  "zoom": -0.9789229544484428
+                  "x": 457.0187621468849,
+                  "y": -570.0361758590923,
+                  "zoom": -0.6666666666666666
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Игра"
             }
+          },
+          {
+            "id": "93f353efa0d2695d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Персонажи/Действия.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Действия"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -182,10 +197,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2486f3ae93f90335",
+  "active": "93f353efa0d2695d",
   "lastOpenFiles": [
-    "Игрок/Игрок.md",
     "Игра.canvas",
+    "Персонажи/Действия.md",
+    "Игрок/Игрок.md",
     "Без боя",
     "Случайные события",
     "Бой/Бой.md",
@@ -226,7 +242,6 @@
     "Без боя/Отдых.md",
     "Игрок/Эффекты.md",
     "Игрок/Расходники.md",
-    "Игрок/Артефакты.md",
     "Excalidraw",
     "Игра",
     "Документы"
