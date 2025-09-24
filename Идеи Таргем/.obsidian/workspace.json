@@ -53,6 +53,18 @@
             }
           },
           {
+            "id": "4af6b32c16c3e727",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-09-24 23.36.40.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-09-24 23.36.40.excalidraw"
+            }
+          },
+          {
             "id": "777886addaf60ed0",
             "type": "leaf",
             "state": {
@@ -67,7 +79,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -225,10 +237,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d99b3a9bdcb93ffc",
+  "active": "4af6b32c16c3e727",
   "lastOpenFiles": [
-    "Бой/Бой.md",
     "Персонажи/Персонажи.md",
+    "Excalidraw/Drawing 2025-09-24 23.36.40.excalidraw.md",
+    "Бой/Бой.md",
     "Город/Жилые помещения.md",
     "Игра.canvas",
     "Документы/Концепция игры Raid Into The Deep.md",
