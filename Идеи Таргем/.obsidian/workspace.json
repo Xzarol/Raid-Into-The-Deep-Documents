@@ -22,29 +22,15 @@
             }
           },
           {
-            "id": "34523fcd1bbc601a",
+            "id": "db0324f3a025a80f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Город/Жилые помещения.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Здания.md"
               },
-              "icon": "lucide-file",
-              "title": "Жилые помещения"
-            }
-          },
-          {
-            "id": "22390b39c177efb5",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Images/Модульное окно жилого помещения.png"
-              },
-              "icon": "lucide-image",
-              "title": "Модульное окно жилого помещения"
+              "icon": "excalidraw-icon",
+              "title": "Здания"
             }
           }
         ],
@@ -206,13 +192,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "34523fcd1bbc601a",
+  "active": "db0324f3a025a80f",
   "lastOpenFiles": [
-    "Город/Кузница.md",
-    "Images/Модульное окно жилого помещения.png",
+    "Images/Модульное окно кузницы.png",
     "Город/Жилые помещения.md",
-    "Excalidraw/Drawing 2025-09-24 20.33.12.excalidraw.md",
-    "Images/Кузница.png",
+    "Images/Модульное окно жилого помещения.png",
+    "Город/Кузница.md",
+    "Excalidraw/Здания.md",
     "Игра.canvas",
     "Город/Город.md",
     "Images/Концепт поселения.png",
