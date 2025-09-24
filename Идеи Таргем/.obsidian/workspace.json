@@ -65,6 +65,18 @@
             }
           },
           {
+            "id": "0aaf5d8ab9317791",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Здания.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Здания"
+            }
+          },
+          {
             "id": "17499da13d6248d8",
             "type": "leaf",
             "state": {
@@ -251,17 +263,17 @@
   },
   "active": "d99b3a9bdcb93ffc",
   "lastOpenFiles": [
-    "Персонажи/Персонажи.md",
-    "Бой/Бой.md",
+    "Excalidraw/Здания.md",
+    "Images/Модульное окно выбора оружия для ковки.png",
     "Excalidraw/Персонаж.md",
+    "Бой/Бой.md",
+    "Персонажи/Персонажи.md",
     "Images/Модульное окно дерева прокачки.png",
     "Город/Жилые помещения.md",
     "Игра.canvas",
     "Документы/Концепция игры Raid Into The Deep.md",
     "Документы/Концепт Raid Into The Deep.md",
-    "Images/Модульное окно выбора оружия для ковки.png",
     "Images/Модульное окно кузницы.png",
-    "Excalidraw/Здания.md",
     "Город/Тренировочные ямы.md",
     "Город/Командный блок.md",
     "Город/Город.md",
