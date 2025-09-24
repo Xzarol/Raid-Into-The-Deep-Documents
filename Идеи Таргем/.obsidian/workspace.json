@@ -39,6 +39,18 @@
             }
           },
           {
+            "id": "b3ff3d094840de9f",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/Pasted image 20250924204300.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250924204300"
+            }
+          },
+          {
             "id": "75a26b714cbdd70f",
             "type": "leaf",
             "state": {
@@ -235,9 +247,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "75a26b714cbdd70f",
+  "active": "b3ff3d094840de9f",
   "lastOpenFiles": [
     "Город/Жилые дома.md",
+    "Images/Pasted image 20250924204300.png",
     "Excalidraw/Drawing 2025-09-24 20.33.12.excalidraw.md",
     "Город/Город.md",
     "Игра.canvas",
@@ -276,11 +289,9 @@
     "Images/Pasted Image 20250919172840_816.png",
     "Images/Pasted Image 20250919171606_135.png",
     "Images/Pasted Image 20250919164854_454.png",
-    "Images/Pasted Image 20250919164717_422.png",
     "Бой/Награда за бой.md",
     "Бой/Уникальный враг.md",
     "Бой/Обычный враг.md",
-    "Игрок/Побег.md",
     "Excalidraw",
     "Игра",
     "Документы"
