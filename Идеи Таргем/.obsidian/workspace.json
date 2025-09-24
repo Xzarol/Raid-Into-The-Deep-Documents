@@ -44,10 +44,10 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Images/Pasted image 20250924204300.png"
+                "file": "Images/Модульное окно жилого здания.png"
               },
               "icon": "lucide-image",
-              "title": "Pasted image 20250924204300"
+              "title": "Модульное окно жилого здания"
             }
           },
           {
@@ -89,7 +89,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -247,10 +247,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b3ff3d094840de9f",
+  "active": "34523fcd1bbc601a",
   "lastOpenFiles": [
+    "Images/Модульное окно жилого здания.png",
     "Город/Жилые дома.md",
-    "Images/Pasted image 20250924204300.png",
     "Excalidraw/Drawing 2025-09-24 20.33.12.excalidraw.md",
     "Город/Город.md",
     "Игра.canvas",
