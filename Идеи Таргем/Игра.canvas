@@ -29,7 +29,7 @@
 		{"id":"a30267c7ceeeafcd","type":"file","file":"Персонажи/Персонажи.md","x":279,"y":-355,"width":156,"height":51,"color":"#b5f8fe"},
 		{"id":"74f4845430156549","type":"file","file":"Город/Город.md","x":-235,"y":-160,"width":100,"height":50,"color":"#10ffcb"},
 		{"id":"bb40027135bd868b","type":"file","file":"Город/Тренировочные ямы.md","x":-1052,"y":-581,"width":229,"height":51,"color":"#b5f8fe"},
-		{"id":"c3076485a499d142","type":"file","file":"Склад.md","x":-1680,"y":-573,"width":96,"height":43,"color":"#b5f8fe"},
+		{"id":"c3076485a499d142","type":"file","file":"Город/Склад.md","x":-1680,"y":-573,"width":96,"height":43,"color":"#b5f8fe"},
 		{"id":"544f9c4550163b4f","type":"file","file":"Персонажи/Снаряжение.md","x":-1707,"y":-737,"width":150,"height":43,"color":"#b5f8fe"},
 		{"id":"208cd918c52c257a","type":"file","file":"Игрок/Игрок.md","x":1200,"y":-361,"width":99,"height":63,"color":"#b5f8fe"},
 		{"id":"b8f7a85a909ef3e4","type":"file","file":"Игрок/Интерфейс в забеге.md","x":1934,"y":-486,"width":226,"height":50,"color":"#b5f8fe"},
