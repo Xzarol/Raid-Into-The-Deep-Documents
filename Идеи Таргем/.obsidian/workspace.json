@@ -53,7 +53,7 @@
             }
           },
           {
-            "id": "cfc2f4824ddb830c",
+            "id": "5b8023756fd3f2b1",
             "type": "leaf",
             "state": {
               "type": "image",
@@ -127,7 +127,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -285,14 +285,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "777886addaf60ed0",
+  "active": "1e5c796338e05646",
   "lastOpenFiles": [
-    "Images/Модульное окно жилого помещения.png",
-    "Город/Жилые помещения.md",
-    "Excalidraw/Персонаж.md",
-    "Excalidraw/Здания.md",
-    "Персонажи/Персонажи.md",
     "Images/Лист персонажа.png",
+    "Персонажи/Персонажи.md",
+    "Excalidraw/Персонаж.md",
+    "Город/Жилые помещения.md",
+    "Images/Модульное окно жилого помещения.png",
+    "Excalidraw/Здания.md",
     "Бой/Бой.md",
     "Images/Модульное окно выбора оружия для ковки.png",
     "Images/Модульное окно дерева прокачки.png",
