@@ -15,8 +15,8 @@
               "state": {
                 "file": "Игра.canvas",
                 "viewState": {
-                  "x": -154.38295775664824,
-                  "y": -212.64491226723953,
+                  "x": -578.382896721492,
+                  "y": -417.4449000602083,
                   "zoom": -1
                 }
               },
@@ -64,8 +64,7 @@
               "title": "Действия в бою"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -223,12 +222,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "34523fcd1bbc601a",
+  "active": "2486f3ae93f90335",
   "lastOpenFiles": [
-    "Images/Концепт поселения.png",
-    "Excalidraw/Референсы.md",
     "Город/Город.md",
     "Игра.canvas",
+    "Images/Концепт поселения.png",
+    "Excalidraw/Референсы.md",
     "Персонажи/Действия в бою.md",
     "Игрок/Игрок.md",
     "Без боя",

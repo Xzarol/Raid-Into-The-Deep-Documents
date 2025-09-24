@@ -1,8 +1,8 @@
 {
 	"nodes":[
+		{"id":"171ae6951a50455c","type":"group","x":-1880,"y":-842,"width":1790,"height":513,"label":"Здания"},
 		{"id":"b5e1c2cb1b2d640a","type":"group","x":-1380,"y":176,"width":1072,"height":720,"label":"Бои"},
 		{"id":"dbe3df2ac15401c8","type":"group","x":-40,"y":-1080,"width":885,"height":796,"label":"Персонажи"},
-		{"id":"171ae6951a50455c","type":"group","x":-1406,"y":-842,"width":1316,"height":513,"label":"Здания"},
 		{"id":"18e2ccfcc36c2554","type":"group","x":-280,"y":176,"width":807,"height":720,"label":"Случайности"},
 		{"id":"13c276d28619a392","type":"group","x":595,"y":176,"width":575,"height":610,"label":"Без боя"},
 		{"id":"dce7354a2eb7e7a7","type":"file","file":"Город/Ресурсы.md","x":-316,"y":-405,"width":131,"height":50,"color":"#b5f8fe"},
