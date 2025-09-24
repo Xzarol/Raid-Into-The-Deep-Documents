@@ -83,8 +83,7 @@
               "title": "Здания"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -242,14 +241,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "db0324f3a025a80f",
+  "active": "2486f3ae93f90335",
   "lastOpenFiles": [
+    "Images/Модульное окно жилого помещения.png",
+    "Excalidraw/Здания.md",
     "Город/Кузница.md",
     "Images/Окно для выбора снаряжения на ковку.png",
     "Images/Модульное окно кузницы.png",
     "Город/Жилые помещения.md",
-    "Excalidraw/Здания.md",
-    "Images/Модульное окно жилого помещения.png",
     "Игра.canvas",
     "Город/Город.md",
     "Images/Концепт поселения.png",
