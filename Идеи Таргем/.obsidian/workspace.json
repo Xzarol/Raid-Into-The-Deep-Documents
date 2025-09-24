@@ -11,28 +11,34 @@
             "id": "2486f3ae93f90335",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Город/Кузница.md",
-                "mode": "source",
-                "source": false
+                "file": "Игра.canvas",
+                "viewState": {
+                  "x": 735.7771646134738,
+                  "y": 449.7724020892265,
+                  "zoom": -0.8056032572998699
+                }
               },
-              "icon": "lucide-file",
-              "title": "Кузница"
+              "icon": "lucide-layout-dashboard",
+              "title": "Игра"
             }
           },
           {
             "id": "7bae39b95dcbf6d7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Город/Кузница.md",
-                "mode": "source",
-                "source": false
+                "file": "Игра.canvas",
+                "viewState": {
+                  "x": 243.87820943627133,
+                  "y": -605.22526455687,
+                  "zoom": -0.8056032572998699
+                }
               },
-              "icon": "lucide-file",
-              "title": "Кузница"
+              "icon": "lucide-layout-dashboard",
+              "title": "Игра"
             }
           },
           {
@@ -85,8 +91,7 @@
               "title": "Кузница"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +123,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Снаряжение",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -139,7 +144,8 @@
               "title": "Закладки"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -244,10 +250,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7bae39b95dcbf6d7",
+  "active": "2486f3ae93f90335",
   "lastOpenFiles": [
-    "Images/Модульное окно выбора оружия для ковки.png",
     "Город/Кузница.md",
+    "Игра.canvas",
+    "Images/Модульное окно выбора оружия для ковки.png",
     "Город/Прогресс прохождения.md",
     "Город/Здания.md",
     "Город/Жилые помещения.md",
@@ -257,7 +264,6 @@
     "Images/Модульное окно жилого помещения.png",
     "Images/Модульное окно кузницы.png",
     "Город/Город.md",
-    "Игра.canvas",
     "Images/Концепт поселения.png",
     "Images/Модульное окно жилого здания.png",
     "Город/Склад.md",
