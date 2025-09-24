@@ -11,17 +11,14 @@
             "id": "2486f3ae93f90335",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Игра.canvas",
-                "viewState": {
-                  "x": 735.7771646134738,
-                  "y": 449.7724020892265,
-                  "zoom": -0.8056032572998699
-                }
+                "file": "Город/Кузница.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Игра"
+              "icon": "lucide-file",
+              "title": "Кузница"
             }
           },
           {
@@ -252,8 +249,10 @@
   },
   "active": "2486f3ae93f90335",
   "lastOpenFiles": [
-    "Город/Кузница.md",
+    "Документы/Концепция игры Raid Into The Deep.md",
+    "Документы/Концепт Raid Into The Deep.md",
     "Игра.canvas",
+    "Город/Кузница.md",
     "Images/Модульное окно выбора оружия для ковки.png",
     "Город/Прогресс прохождения.md",
     "Город/Здания.md",
@@ -282,13 +281,11 @@
     "Images/Концепт экрана боя.png",
     "Документы/Концепт документ Raid Into The Deep.md",
     "Фич Лист.md",
-    "Документы/Концепция игры Raid Into The Deep.md",
     "Документы/Дизайн документ Raid Into The Deep.md",
     "Images/Концепт интерфейса забега.png",
     "Images/Pasted Image 20250921162129_246.png",
     "Документы/Pasted image 20250921161701.png.md",
     "Excalidraw/Концепт поселения.md",
-    "Документы/Концепт Raid Into The Deep.md",
     "Тест.md",
     "conflict-files-obsidian-git.md",
     "Персонажи/Снаряжение.md",
