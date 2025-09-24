@@ -64,7 +64,9 @@
 		{"id":"a29641da05f10167","type":"file","file":"Персонажи/Активные навыки.md","x":475,"y":-780,"width":137,"height":77,"color":"#b5f8fe"},
 		{"id":"33520cb1f97aaefa","type":"file","file":"Игра/Карта забега.md","x":-260,"y":0,"width":150,"height":60,"color":"#10ffcb"},
 		{"id":"49a45980049e58ca","type":"file","file":"Images/Pasted image 20250918181633.png","x":-769,"y":-110,"width":400,"height":109},
-		{"id":"570eaeb8b50cce52","type":"file","file":"Персонажи/Действия в бою.md","x":281,"y":-1060,"width":193,"height":57,"color":"#b5f8fe"}
+		{"id":"570eaeb8b50cce52","type":"file","file":"Персонажи/Действия в бою.md","x":281,"y":-1060,"width":193,"height":57,"color":"#b5f8fe"},
+		{"id":"c3076485a499d142","x":-1680,"y":-573,"width":96,"height":43,"color":"#b5f8fe","type":"file","file":"Склад.md"},
+		{"id":"544f9c4550163b4f","x":-1707,"y":-737,"width":150,"height":43,"color":"#b5f8fe","type":"file","file":"Персонажи/Снаряжение.md"}
 	],
 	"edges":[
 		{"id":"8b9f7fde00abe5a1","fromNode":"74f4845430156549","fromSide":"bottom","toNode":"33520cb1f97aaefa","toSide":"top","label":"Генерируется"},
@@ -138,6 +140,8 @@
 		{"id":"09430fdd2a5fdc40","fromNode":"3bf0bc532c938465","fromSide":"bottom","toNode":"b1d404eba83b1153","toSide":"top"},
 		{"id":"4472382ce55af019","fromNode":"570eaeb8b50cce52","fromSide":"top","toNode":"2ef28edd1ff7eeb6","toSide":"bottom"},
 		{"id":"c7c687b6ab9fb399","fromNode":"0f746a99a0a922b4","fromSide":"top","toNode":"993ac8b66c061832","toSide":"bottom"},
-		{"id":"70fac6230b872c85","fromNode":"dce7354a2eb7e7a7","fromSide":"right","toNode":"31815eb7d0724178","toSide":"left"}
+		{"id":"70fac6230b872c85","fromNode":"dce7354a2eb7e7a7","fromSide":"right","toNode":"31815eb7d0724178","toSide":"left"},
+		{"id":"5ce34fc01ad1a4d7","fromNode":"dbabb5ee6e4f2ce9","fromSide":"left","toNode":"c3076485a499d142","toSide":"bottom"},
+		{"id":"5d789eecf9dac2b6","fromNode":"c3076485a499d142","fromSide":"top","toNode":"544f9c4550163b4f","toSide":"bottom","label":"Тут мы можем посмотреть\nвсе имеющееся снаряжение"}
 	]
 }
