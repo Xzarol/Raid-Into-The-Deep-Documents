@@ -15,9 +15,9 @@
               "state": {
                 "file": "Игра.canvas",
                 "viewState": {
-                  "x": 457.0187621468849,
-                  "y": -570.0361758590923,
-                  "zoom": -0.6666666666666666
+                  "x": 565.6169201730393,
+                  "y": -511.8449244742708,
+                  "zoom": -1
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -30,16 +30,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Персонажи/Действия.md",
+                "file": "Персонажи/Действия в бою.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Действия"
+              "title": "Действия в бою"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -197,10 +196,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "93f353efa0d2695d",
+  "active": "2486f3ae93f90335",
   "lastOpenFiles": [
+    "Персонажи/Действия в бою.md",
     "Игра.canvas",
-    "Персонажи/Действия.md",
     "Игрок/Игрок.md",
     "Без боя",
     "Случайные события",

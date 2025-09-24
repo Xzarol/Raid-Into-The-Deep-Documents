@@ -24,7 +24,6 @@
 		{"id":"07eac5850d2bbc58","type":"file","file":"Игрок/Побег.md","x":1734,"y":-860,"width":105,"height":50,"color":"#b5f8fe"},
 		{"id":"6b6b5617e43315e0","type":"file","file":"Игрок/Команда.md","x":1720,"y":-728,"width":133,"height":62,"color":"#b5f8fe"},
 		{"id":"99219f738914b08d","type":"file","file":"Игрок/Расходники.md","x":1480,"y":-539,"width":158,"height":75,"color":"#b5f8fe"},
-		{"id":"570eaeb8b50cce52","type":"file","file":"Персонажи/Действия в бою.md","x":304,"y":-1060,"width":147,"height":57,"color":"#b5f8fe"},
 		{"id":"4644ca33b4dec1a5","type":"file","file":"Персонажи/Характеристики.md","x":279,"y":-604,"width":196,"height":52,"color":"#b5f8fe"},
 		{"id":"2ef28edd1ff7eeb6","type":"text","text":"Ходьба и 1 доступное действие","x":247,"y":-1242,"width":250,"height":60},
 		{"id":"d64f8224fa224f32","type":"file","file":"Персонажи/Снаряжение.md","x":-20,"y":-730,"width":165,"height":54,"color":"#b5f8fe"},
@@ -64,7 +63,8 @@
 		{"id":"eb2174257b5fa07e","type":"file","file":"Персонажи/Пассивные навыки.md","x":685,"y":-780,"width":140,"height":83,"color":"#b5f8fe"},
 		{"id":"a29641da05f10167","type":"file","file":"Персонажи/Активные навыки.md","x":475,"y":-780,"width":137,"height":77,"color":"#b5f8fe"},
 		{"id":"33520cb1f97aaefa","type":"file","file":"Игра/Карта забега.md","x":-260,"y":0,"width":150,"height":60,"color":"#10ffcb"},
-		{"id":"49a45980049e58ca","type":"file","file":"Images/Pasted image 20250918181633.png","x":-769,"y":-110,"width":400,"height":109}
+		{"id":"49a45980049e58ca","type":"file","file":"Images/Pasted image 20250918181633.png","x":-769,"y":-110,"width":400,"height":109},
+		{"id":"570eaeb8b50cce52","type":"file","file":"Персонажи/Действия в бою.md","x":281,"y":-1060,"width":193,"height":57,"color":"#b5f8fe"}
 	],
 	"edges":[
 		{"id":"8b9f7fde00abe5a1","fromNode":"74f4845430156549","fromSide":"bottom","toNode":"33520cb1f97aaefa","toSide":"top","label":"Генерируется"},
