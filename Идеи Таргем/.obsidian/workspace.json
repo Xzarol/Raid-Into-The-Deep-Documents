@@ -53,6 +53,18 @@
             }
           },
           {
+            "id": "f3fe6af1a868bb08",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/Модульное окно командного блока.png"
+              },
+              "icon": "lucide-image",
+              "title": "Модульное окно командного блока"
+            }
+          },
+          {
             "id": "2c0e4203fb0cea94",
             "type": "leaf",
             "state": {
@@ -79,7 +91,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -237,11 +249,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2c0e4203fb0cea94",
+  "active": "1030f054e0a5f987",
   "lastOpenFiles": [
+    "Images/Модульное окно командного блока.png",
     "Город/Командный блок.md",
-    "Excalidraw/Здания.md",
     "Город/Склад.md",
+    "Excalidraw/Здания.md",
     "Игра.canvas",
     "Images/Модульное окно склада.png",
     "Персонажи/Персонажи.md",
@@ -266,7 +279,6 @@
     "Images/Окно для выбора снаряжения на ковку.png",
     "Excalidraw/Референсы.md",
     "Images/Концепт поселения.png",
-    "Images/Модульное окно жилого здания.png",
     "Персонажи/Действия в бою.md",
     "Игрок/Игрок.md",
     "Без боя",
