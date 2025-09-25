@@ -77,7 +77,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -235,11 +235,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "73f46d45fe17957b",
+  "active": "1030f054e0a5f987",
   "lastOpenFiles": [
-    "Excalidraw/Здания.md",
     "Images/Модульное окно тренировочных ям.png",
     "Город/Тренировочные ямы.md",
+    "Excalidraw/Здания.md",
     "Персонажи/Персонажи.md",
     "Бой/Бой.md",
     "Images/Модульное окно дерева прокачки.png",
