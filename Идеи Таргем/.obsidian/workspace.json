@@ -90,7 +90,8 @@
               "title": "Персонажи"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -248,8 +249,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7bae39b95dcbf6d7",
+  "active": "73f46d45fe17957b",
   "lastOpenFiles": [
+    "Персонажи/Оружие.md",
     "Игрок/Эффекты.md",
     "Игра.canvas",
     "Игрок/Расходники.md",
@@ -268,7 +270,6 @@
     "Город/Прогресс прохождения.md",
     "Город/Ресурсы.md",
     "Город/Склад.md",
-    "Персонажи/Оружие.md",
     "Город/Город.md",
     "Images/Интерфейс города.png",
     "Excalidraw/Референсы.md",
