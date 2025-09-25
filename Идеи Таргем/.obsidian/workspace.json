@@ -37,9 +37,21 @@
               "icon": "lucide-file",
               "title": "Тренировочные ямы"
             }
+          },
+          {
+            "id": "1030f054e0a5f987",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Здания.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Здания"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -197,8 +209,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "73f46d45fe17957b",
+  "active": "1030f054e0a5f987",
   "lastOpenFiles": [
+    "Город/Тренировочные ямы.md",
     "Персонажи/Персонажи.md",
     "Бой/Бой.md",
     "Images/Модульное окно дерева прокачки.png",
@@ -207,7 +220,6 @@
     "Excalidraw/Персонаж.md",
     "Игра.canvas",
     "Персонажи/Характеристики.md",
-    "Город/Тренировочные ямы.md",
     "Images/Лист персонажа.png",
     "Excalidraw/Здания.md",
     "Images/Модульное окно выбора оружия для ковки.png",
