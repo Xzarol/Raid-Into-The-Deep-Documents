@@ -56,24 +56,12 @@
             "id": "f3fe6af1a868bb08",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "Images/Модульное окно командного блока.png"
-              },
-              "icon": "lucide-image",
-              "title": "Модульное окно командного блока"
-            }
-          },
-          {
-            "id": "2c0e4203fb0cea94",
-            "type": "leaf",
-            "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Здания.md"
+                "file": "Excalidraw/Референсы.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Здания"
+              "title": "Референсы"
             }
           },
           {
@@ -91,7 +79,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -249,15 +237,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1030f054e0a5f987",
+  "active": "f3fe6af1a868bb08",
   "lastOpenFiles": [
+    "Excalidraw/Здания.md",
+    "Images/Модульное окно командного блока.png",
+    "Город/Город.md",
     "Город/Жилые помещения.md",
     "Город/Здания.md",
     "Город/Командный блок.md",
     "Город/Кузница.md",
-    "Images/Модульное окно командного блока.png",
     "Город/Склад.md",
-    "Excalidraw/Здания.md",
     "Игра.canvas",
     "Images/Модульное окно склада.png",
     "Персонажи/Персонажи.md",
@@ -273,7 +262,6 @@
     "Документы/Концепция игры Raid Into The Deep.md",
     "Документы/Концепт Raid Into The Deep.md",
     "Images/Модульное окно кузницы.png",
-    "Город/Город.md",
     "Персонажи/Оружие.md",
     "Город/Прогресс прохождения.md",
     "Images/Окно для выбора снаряжения на ковку.png",
