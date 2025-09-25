@@ -53,6 +53,18 @@
             }
           },
           {
+            "id": "bde002c5ab52d0e4",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/Интерфейс города.png"
+              },
+              "icon": "lucide-image",
+              "title": "Интерфейс города"
+            }
+          },
+          {
             "id": "f3fe6af1a868bb08",
             "type": "leaf",
             "state": {
@@ -79,7 +91,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -237,11 +249,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f3fe6af1a868bb08",
+  "active": "1030f054e0a5f987",
   "lastOpenFiles": [
+    "Images/Интерфейс города.png",
+    "Город/Город.md",
+    "Excalidraw/Референсы.md",
     "Excalidraw/Здания.md",
     "Images/Модульное окно командного блока.png",
-    "Город/Город.md",
     "Город/Жилые помещения.md",
     "Город/Здания.md",
     "Город/Командный блок.md",
@@ -265,8 +279,6 @@
     "Персонажи/Оружие.md",
     "Город/Прогресс прохождения.md",
     "Images/Окно для выбора снаряжения на ковку.png",
-    "Excalidraw/Референсы.md",
-    "Images/Концепт поселения.png",
     "Персонажи/Действия в бою.md",
     "Игрок/Игрок.md",
     "Без боя",
