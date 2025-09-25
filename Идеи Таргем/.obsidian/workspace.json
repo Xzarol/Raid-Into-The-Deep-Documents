@@ -11,17 +11,14 @@
             "id": "7bae39b95dcbf6d7",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Игра.canvas",
-                "viewState": {
-                  "x": 91.44051204233858,
-                  "y": 452.3559208502314,
-                  "zoom": -0.4722699239665366
-                }
+                "file": "Город/Ресурсы.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Игра"
+              "icon": "lucide-file",
+              "title": "Ресурсы"
             }
           },
           {
@@ -262,6 +259,8 @@
   },
   "active": "7bae39b95dcbf6d7",
   "lastOpenFiles": [
+    "Бой/Награда за бой.md",
+    "Игра.canvas",
     "Игрок/Эффекты.md",
     "Персонажи/Оружие.md",
     "Images/Pasted image 20250926001210.png",
@@ -269,11 +268,9 @@
     "Images/Интерфейс города.png",
     "Excalidraw/Референсы.md",
     "Персонажи/Персонажи.md",
-    "Игра.canvas",
     "Игрок/Расходники.md",
     "Игрок/Артефакты.md",
     "Бой/Обычный враг.md",
-    "Бой/Награда за бой.md",
     "Бой/Обычный бой.md",
     "Бой/Бой с боссом.md",
     "Бой/Бой.md",
