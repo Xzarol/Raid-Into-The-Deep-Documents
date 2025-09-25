@@ -39,6 +39,18 @@
             }
           },
           {
+            "id": "964ba0b58856cc7e",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/Модульное окно склада.png"
+              },
+              "icon": "lucide-image",
+              "title": "Модульное окно склада"
+            }
+          },
+          {
             "id": "6a369df7bb44a841",
             "type": "leaf",
             "state": {
@@ -77,7 +89,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -235,13 +247,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1030f054e0a5f987",
+  "active": "73f46d45fe17957b",
   "lastOpenFiles": [
+    "Images/Модульное окно склада.png",
     "Город/Склад.md",
-    "Город/Тренировочные ямы.md",
-    "Images/Модульное окно тренировочных ям.png",
     "Excalidraw/Здания.md",
     "Персонажи/Персонажи.md",
+    "Город/Тренировочные ямы.md",
+    "Images/Модульное окно тренировочных ям.png",
     "Бой/Бой.md",
     "Images/Модульное окно дерева прокачки.png",
     "Images/Модульное окно жилого помещения.png",
