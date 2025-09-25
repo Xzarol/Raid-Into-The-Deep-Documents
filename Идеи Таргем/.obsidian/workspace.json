@@ -15,8 +15,8 @@
               "state": {
                 "file": "Игра.canvas",
                 "viewState": {
-                  "x": -6.224773223706279,
-                  "y": -437.7297377144158,
+                  "x": 91.44051204233858,
+                  "y": 452.3559208502314,
                   "zoom": -0.4722699239665366
                 }
               },
@@ -102,8 +102,7 @@
               "title": "Персонажи"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -261,12 +260,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0884ff2ab59571a4",
+  "active": "7bae39b95dcbf6d7",
   "lastOpenFiles": [
-    "Images/Pasted image 20250926001210.png",
     "Игрок/Эффекты.md",
-    "Excalidraw/Здания.md",
     "Персонажи/Оружие.md",
+    "Images/Pasted image 20250926001210.png",
+    "Excalidraw/Здания.md",
     "Images/Интерфейс города.png",
     "Excalidraw/Референсы.md",
     "Персонажи/Персонажи.md",
@@ -299,7 +298,6 @@
     "Документы/Концепция игры Raid Into The Deep.md",
     "Документы/Концепт Raid Into The Deep.md",
     "Images/Модульное окно кузницы.png",
-    "Images/Окно для выбора снаряжения на ковку.png",
     "Без боя",
     "Случайные события",
     "Бой",
