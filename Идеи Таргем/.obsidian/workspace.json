@@ -50,6 +50,23 @@
             }
           },
           {
+            "id": "c3ba3d440d004499",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Игра.canvas",
+                "viewState": {
+                  "x": 499.9152946164378,
+                  "y": 592.1004372238322,
+                  "zoom": -0.1389365906332033
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Игра"
+            }
+          },
+          {
             "id": "f3d23ba19d274aff",
             "type": "leaf",
             "state": {
@@ -134,7 +151,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -292,10 +309,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8e46ab42831e1563",
+  "active": "c3ba3d440d004499",
   "lastOpenFiles": [
-    "Игрок/Расходники.md",
     "Фич Лист.md",
+    "Игрок/Расходники.md",
     "Город/Кузница.md",
     "Персонажи/Персонажи.md",
     "Игрок/Артефакты.md",
