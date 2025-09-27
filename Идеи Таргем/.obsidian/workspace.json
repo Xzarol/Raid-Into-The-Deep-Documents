@@ -57,9 +57,9 @@
               "state": {
                 "file": "Игра.canvas",
                 "viewState": {
-                  "x": 218.03536776053716,
-                  "y": 509.2982318117661,
-                  "zoom": -0.1389365906332033
+                  "x": -1281.5097372169957,
+                  "y": -545.6221577376168,
+                  "zoom": -0.4722699239665366
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -151,7 +151,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -309,12 +309,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8e46ab42831e1563",
+  "active": "c3ba3d440d004499",
   "lastOpenFiles": [
-    "Игра.canvas",
-    "Город/Город.md",
     "Фич Лист.md",
     "Игрок/Расходники.md",
+    "Город/Город.md",
+    "Игра.canvas",
     "Город/Кузница.md",
     "Персонажи/Персонажи.md",
     "Игрок/Артефакты.md",
