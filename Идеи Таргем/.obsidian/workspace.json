@@ -48,6 +48,20 @@
             }
           },
           {
+            "id": "7a9e3ca4b167db2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Персонажи/Персонажи.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Персонажи"
+            }
+          },
+          {
             "id": "c3ba3d440d004499",
             "type": "leaf",
             "state": {
@@ -149,7 +163,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -307,10 +321,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8e46ab42831e1563",
+  "active": "7a9e3ca4b167db2d",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2025-09-27 16.19.08.excalidraw.md",
     "Excalidraw/Персонаж.md",
+    "Игрок/Игрок.md",
+    "Excalidraw/Drawing 2025-09-27 16.19.08.excalidraw.md",
     "Фич Лист.md",
     "Бой/Паук пожиратель племен.md",
     "Город/Командный блок.md",
@@ -337,7 +352,6 @@
     "Бой/Бой с боссом.md",
     "Город/Здания.md",
     "Город/Прогресс прохождения.md",
-    "Город/Склад.md",
     "Images/Модульное окно командного блока.png",
     "Images/Модульное окно склада.png",
     "Images/Модульное окно тренировочных ям.png",
