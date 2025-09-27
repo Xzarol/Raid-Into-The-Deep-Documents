@@ -119,8 +119,7 @@
               "title": "Бой"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -278,10 +277,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8e46ab42831e1563",
+  "active": "a75793732440ca47",
   "lastOpenFiles": [
-    "Игрок/Эффекты.md",
     "Фич Лист.md",
+    "Игрок/Эффекты.md",
     "Игрок/Расходники.md",
     "Бой/Бой.md",
     "Персонажи/Персонажи.md",
