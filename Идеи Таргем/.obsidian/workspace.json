@@ -163,7 +163,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -321,8 +321,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7a9e3ca4b167db2d",
+  "active": "8e46ab42831e1563",
   "lastOpenFiles": [
+    "Персонажи/Персонажи.md",
     "Excalidraw/Персонаж.md",
     "Игрок/Игрок.md",
     "Excalidraw/Drawing 2025-09-27 16.19.08.excalidraw.md",
@@ -339,7 +340,6 @@
     "Игрок/Расходники.md",
     "Город/Город.md",
     "Город/Кузница.md",
-    "Персонажи/Персонажи.md",
     "Игрок/Артефакты.md",
     "Игрок/Эффекты.md",
     "Город/Тренировочные ямы.md",
