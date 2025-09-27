@@ -151,7 +151,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -309,12 +309,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "feeb58425b3ef165",
+  "active": "8e46ab42831e1563",
   "lastOpenFiles": [
     "Город/Город.md",
+    "Игрок/Расходники.md",
     "Фич Лист.md",
     "Игра.canvas",
-    "Игрок/Расходники.md",
     "Город/Кузница.md",
     "Персонажи/Персонажи.md",
     "Игрок/Артефакты.md",
