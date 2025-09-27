@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -250,12 +250,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "20cac99465664e3d",
+  "active": "feeb58425b3ef165",
   "lastOpenFiles": [
+    "Бой/Бой.md",
     "Персонажи/Персонажи.md",
     "Фич Лист.md",
     "Город/Жилые помещения.md",
-    "Бой/Бой.md",
     "Город/Кузница.md",
     "Город/Тренировочные ямы.md",
     "Город/Город.md",
