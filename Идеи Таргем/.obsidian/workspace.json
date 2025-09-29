@@ -11,12 +11,14 @@
             "id": "feeb58425b3ef165",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Персонаж.md"
+                "file": "Персонажи/Персонажи.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Персонаж"
+              "icon": "lucide-file",
+              "title": "Персонажи"
             }
           }
         ]
@@ -179,6 +181,7 @@
   },
   "active": "feeb58425b3ef165",
   "lastOpenFiles": [
+    "Excalidraw/Персонаж.md",
     "Персонажи/Персонажи.md",
     "Город/Тренировочные ямы.md",
     "Город/Склад.md",
@@ -188,7 +191,6 @@
     "Игра.canvas",
     "Фич Лист.md",
     "Игрок/Расходники.md",
-    "Excalidraw/Персонаж.md",
     "Игрок/Игрок.md",
     "Excalidraw/Drawing 2025-09-27 16.19.08.excalidraw.md",
     "Бой/Паук пожиратель племен.md",
