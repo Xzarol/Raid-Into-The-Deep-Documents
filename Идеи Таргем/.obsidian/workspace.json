@@ -11,17 +11,14 @@
             "id": "feeb58425b3ef165",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Игра.canvas",
-                "viewState": {
-                  "x": -1075.294853216025,
-                  "y": 520.9235232873164,
-                  "zoom": -0.1389365906332033
-                }
+                "file": "Бой/Бой.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Игра"
+              "icon": "lucide-file",
+              "title": "Бой"
             }
           }
         ]
@@ -184,6 +181,7 @@
   },
   "active": "feeb58425b3ef165",
   "lastOpenFiles": [
+    "Игра.canvas",
     "Бой/Паук пожиратель племен.md",
     "Бой/Уникальный бой.md",
     "Бой/Бой с боссом.md",
@@ -197,7 +195,6 @@
     "Город/Командный блок.md",
     "Город/Кузница.md",
     "Город/Город.md",
-    "Игра.canvas",
     "Фич Лист.md",
     "Игрок/Расходники.md",
     "Игрок/Игрок.md",
@@ -211,7 +208,6 @@
     "Город/Ресурсы.md",
     "Персонажи/Оружие.md",
     "Images/Pasted image 20250926001210.png",
-    "Excalidraw/Здания.md",
     "Images/Интерфейс города.png",
     "Images/Модульное окно командного блока.png",
     "Images/Модульное окно склада.png",
