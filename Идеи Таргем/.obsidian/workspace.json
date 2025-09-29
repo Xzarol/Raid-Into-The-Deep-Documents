@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Бой/Бой.md",
+                "file": "Бой/Формы атак.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Бой"
+              "title": "Формы атак"
             }
           }
         ]
@@ -179,9 +179,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "931e0395b686210d",
+  "active": "feeb58425b3ef165",
   "lastOpenFiles": [
     "Бой/Бой.md",
+    "Бой/Формы атак.md",
     "Бой/ТЕСТ.md",
     "Бой/Бой с боссом.md",
     "Бой/Бронированный медленный разрушитель.md",
@@ -207,7 +208,6 @@
     "Бой/Гигантская разросшаяся мухоловка.md",
     "Игрок/Артефакты.md",
     "Игрок/Эффекты.md",
-    "Город/Ресурсы.md",
     "Images/Pasted image 20250926001210.png",
     "Images/Интерфейс города.png",
     "Images/Модульное окно командного блока.png",
