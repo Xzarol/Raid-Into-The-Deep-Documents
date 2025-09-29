@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Бой/Формы атак.md",
+                "file": "Бой/Уникальный бой.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Формы атак"
+              "title": "Уникальный бой"
             }
           }
         ]
@@ -181,6 +181,7 @@
   },
   "active": "feeb58425b3ef165",
   "lastOpenFiles": [
+    "Бой/Формы атак.md",
     "Images/Pasted image 20250929194652.png",
     "Images/Pasted image 20250929194209.png",
     "Images/Pasted image 20250929193951.png",
@@ -191,9 +192,7 @@
     "Images/Pasted image 20250929192816.png",
     "Images/Pasted image 20250929192719.png",
     "Images/Pasted image 20250929192717.png",
-    "Images/Pasted image 20250929192543.png",
     "Бой/Бой.md",
-    "Бой/Формы атак.md",
     "Бой/ТЕСТ.md",
     "Бой/Бой с боссом.md",
     "Бой/Бронированный медленный разрушитель.md",
