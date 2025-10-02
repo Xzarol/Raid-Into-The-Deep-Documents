@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Фич Лист.md",
+                "file": "Бой/Формы атак.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Фич Лист"
+              "title": "Формы атак"
             }
           }
         ]
@@ -181,8 +181,8 @@
   },
   "active": "e70ef1674a53df27",
   "lastOpenFiles": [
-    "Бой/Обычный бой.md",
     "Фич Лист.md",
+    "Бой/Обычный бой.md",
     "Excalidraw/Здания.md",
     "Игрок/Эффекты.md",
     "Игрок/Расходники.md",
