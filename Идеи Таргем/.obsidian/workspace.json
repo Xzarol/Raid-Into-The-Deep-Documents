@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Игра/Карта забега.md",
+                "file": "Бой/Бой.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Карта забега"
+              "title": "Бой"
             }
           }
         ]
@@ -181,6 +181,7 @@
   },
   "active": "e70ef1674a53df27",
   "lastOpenFiles": [
+    "Игра/Карта забега.md",
     "Images/Pasted image 20251004195728.png",
     "Город/Прогресс прохождения.md",
     "Бой/Бой.md",
@@ -202,7 +203,6 @@
     "Игрок/Команда.md",
     "Игрок/Интерфейс в забеге.md",
     "Игрок/Игрок.md",
-    "Игра/Карта забега.md",
     "Город/Тренировочные ямы.md",
     "Город/Здания.md",
     "Город/Город.md",
@@ -216,7 +216,6 @@
     "Images/Pasted image 20250929193021.png",
     "Images/Pasted image 20250929192816.png",
     "Images/Pasted image 20250929192719.png",
-    "Images/Pasted image 20250929192717.png",
     "Игра.canvas",
     "Без боя",
     "Случайные события",
