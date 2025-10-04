@@ -120,23 +120,9 @@
               "icon": "excalidraw-icon",
               "title": "Карта экранов"
             }
-          },
-          {
-            "id": "49ee8df8a12cbc31",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -294,7 +280,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "49ee8df8a12cbc31",
+  "active": "e39b665f5fa71f3c",
   "lastOpenFiles": [
     "Excalidraw/Карта экранов.md",
     "conflict-files-obsidian-git.md",
