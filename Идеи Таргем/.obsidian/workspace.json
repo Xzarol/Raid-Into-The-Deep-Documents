@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Персонажи/Персонажи.md",
+                "file": "Бой/Бой.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Персонажи"
+              "title": "Бой"
             }
           }
         ]
@@ -181,6 +181,7 @@
   },
   "active": "e70ef1674a53df27",
   "lastOpenFiles": [
+    "Персонажи/Персонажи.md",
     "Бой/Формы атак.md",
     "Фич Лист.md",
     "Бой/Обычный бой.md",
@@ -206,7 +207,6 @@
     "Бой/Бронированный медленный разрушитель.md",
     "Бой/Паук пожиратель племен.md",
     "Бой/Обычный враг.md",
-    "Бой/Награда за бой.md",
     "Images/Pasted image 20250929194652.png",
     "Images/Pasted image 20250929194209.png",
     "Images/Pasted image 20250929193951.png",
