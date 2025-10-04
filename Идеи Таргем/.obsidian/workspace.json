@@ -11,12 +11,14 @@
             "id": "e70ef1674a53df27",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Карта экранов.md"
+                "file": "Бой/Бой.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Карта экранов"
+              "icon": "lucide-file",
+              "title": "Бой"
             }
           }
         ]
@@ -179,8 +181,8 @@
   },
   "active": "e70ef1674a53df27",
   "lastOpenFiles": [
-    "Документы/Карта экранов (User Flow).md",
     "Excalidraw/Карта экранов.md",
+    "Документы/Карта экранов (User Flow).md",
     "Бой/Бой.md",
     "Бой/Тест.md",
     "Персонажи/Персонажи.md",
