@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Персонажи/Навыки.md",
+                "file": "Игрок/Эффекты.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Навыки"
+              "title": "Эффекты"
             }
           }
         ]
@@ -181,6 +181,7 @@
   },
   "active": "e70ef1674a53df27",
   "lastOpenFiles": [
+    "Персонажи/Навыки.md",
     "Персонажи/Персонажи.md",
     "Excalidraw/Персонаж.md",
     "Бой/Бой.md",
@@ -207,7 +208,6 @@
     "Город/Тренировочные ямы.md",
     "Город/Здания.md",
     "Город/Город.md",
-    "Город/Жилые помещения.md",
     "Images/Pasted image 20250929194652.png",
     "Images/Pasted image 20250929194209.png",
     "Images/Pasted image 20250929193951.png",
