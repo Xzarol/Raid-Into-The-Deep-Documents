@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Персонажи/Навыки.md",
+                "file": "Игрок/Эффекты.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Навыки"
+              "title": "Эффекты"
             }
           },
           {
@@ -195,8 +195,8 @@
   },
   "active": "e70ef1674a53df27",
   "lastOpenFiles": [
-    "Игрок/Эффекты.md",
     "Персонажи/Навыки.md",
+    "Игрок/Эффекты.md",
     "Персонажи/Персонажи.md",
     "Excalidraw/Персонаж.md",
     "Бой/Бой.md",
