@@ -4,38 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "49f0a81766f4da0f",
+        "id": "a25b7bf615d316ef",
         "type": "tabs",
         "children": [
           {
-            "id": "e70ef1674a53df27",
+            "id": "8ae7c2c0390c49a9",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Игра.canvas",
-                "viewState": {
-                  "x": 1301.4479808154229,
-                  "y": -672.4016367801111,
-                  "zoom": -1.3333333333333333
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Игра"
-            }
-          },
-          {
-            "id": "d01ab2afe1ecd652",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Игрок/Эффекты.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Эффекты"
+              "title": "Новая вкладка"
             }
           }
         ]
@@ -196,15 +175,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e70ef1674a53df27",
+  "active": "8ae7c2c0390c49a9",
   "lastOpenFiles": [
+    "Игрок/Эффекты.md",
+    "Бой/Бой.md",
+    "Игра.canvas",
     "Excalidraw/Референсы.md",
     "Excalidraw/Персонаж.md",
     "Excalidraw/Карта экранов.md",
     "Excalidraw/Здания.md",
     "Бой/Препятствия.md",
-    "Бой/Бой.md",
-    "Игрок/Эффекты.md",
     "Персонажи/Навыки.md",
     "Персонажи/Персонажи.md",
     "Игра/Карта забега.md",
@@ -224,7 +204,6 @@
     "Игрок/Команда.md",
     "Игрок/Интерфейс в забеге.md",
     "Игрок/Игрок.md",
-    "Город/Тренировочные ямы.md",
     "Images/Pasted image 20250929194652.png",
     "Images/Pasted image 20250929194209.png",
     "Images/Pasted image 20250929193951.png",
@@ -234,7 +213,6 @@
     "Images/Pasted image 20250929193021.png",
     "Images/Pasted image 20250929192816.png",
     "Images/Pasted image 20250929192719.png",
-    "Игра.canvas",
     "Без боя",
     "Случайные события",
     "Бой",
