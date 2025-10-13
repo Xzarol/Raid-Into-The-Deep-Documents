@@ -11,14 +11,17 @@
             "id": "e70ef1674a53df27",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Бой/Препятствия.md",
-                "mode": "source",
-                "source": false
+                "file": "Игра.canvas",
+                "viewState": {
+                  "x": 1301.4479808154229,
+                  "y": -672.4016367801111,
+                  "zoom": -1.3333333333333333
+                }
               },
-              "icon": "lucide-file",
-              "title": "Препятствия"
+              "icon": "lucide-layout-dashboard",
+              "title": "Игра"
             }
           },
           {
@@ -195,12 +198,15 @@
   },
   "active": "e70ef1674a53df27",
   "lastOpenFiles": [
-    "Бой/Бой.md",
+    "Excalidraw/Референсы.md",
+    "Excalidraw/Персонаж.md",
+    "Excalidraw/Карта экранов.md",
+    "Excalidraw/Здания.md",
     "Бой/Препятствия.md",
+    "Бой/Бой.md",
     "Игрок/Эффекты.md",
     "Персонажи/Навыки.md",
     "Персонажи/Персонажи.md",
-    "Excalidraw/Персонаж.md",
     "Игра/Карта забега.md",
     "Images/Pasted image 20251004195728.png",
     "Город/Прогресс прохождения.md",
@@ -208,20 +214,17 @@
     "Бой/Паук пожиратель племен.md",
     "Бой/Уникальный враг.md",
     "Бой/Обычный враг.md",
-    "Excalidraw/Карта экранов.md",
     "Документы/Карта экранов (User Flow).md",
     "Бой/Тест.md",
     "Бой/Формы атак.md",
     "Фич Лист.md",
     "Бой/Обычный бой.md",
-    "Excalidraw/Здания.md",
     "Игрок/Расходники.md",
     "Игрок/Побег.md",
     "Игрок/Команда.md",
     "Игрок/Интерфейс в забеге.md",
     "Игрок/Игрок.md",
     "Город/Тренировочные ямы.md",
-    "Город/Здания.md",
     "Images/Pasted image 20250929194652.png",
     "Images/Pasted image 20250929194209.png",
     "Images/Pasted image 20250929193951.png",
