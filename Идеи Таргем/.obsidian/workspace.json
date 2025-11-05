@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Игра/Уведомления.md",
+                "file": "Игра/Мини руководство по созданию карт.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Уведомления"
+              "title": "Мини руководство по созданию карт"
             }
           }
         ]
@@ -179,12 +179,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "931e0395b686210d",
+  "active": "d1eb6e02d8aed69e",
   "lastOpenFiles": [
-    "Игра/Звуки и музыка.md",
-    "Игра/Уведомления.md",
-    "Игра/Карта забега.md",
+    "Images/Pasted image 20251105233358.png",
+    "Images/Pasted image 20251105233330.png",
     "Бой/Формы атак.md",
+    "Игра/Мини руководство по созданию карт.md",
+    "Excalidraw/Здания.md",
+    "Игра/Уведомления.md",
+    "Игра/Звуки и музыка.md",
+    "Игра/Карта забега.md",
     "Персонажи/Персонажи.md",
     "Город/Кузница.md",
     "Персонажи/Оружие.md",
@@ -203,12 +207,9 @@
     "Excalidraw/Референсы.md",
     "Excalidraw/Персонаж.md",
     "Excalidraw/Карта экранов.md",
-    "Excalidraw/Здания.md",
     "Персонажи/Навыки.md",
     "Images/Pasted image 20251004195728.png",
     "Город/Прогресс прохождения.md",
-    "Бой/Бой с боссом.md",
-    "Документы/Карта экранов (User Flow).md",
     "Images/Pasted image 20250929194652.png",
     "Images/Pasted image 20250929194209.png",
     "Images/Pasted image 20250929193951.png",
@@ -217,7 +218,6 @@
     "Images/Pasted image 20250929193023.png",
     "Images/Pasted image 20250929193021.png",
     "Images/Pasted image 20250929192816.png",
-    "Images/Pasted image 20250929192719.png",
     "Без боя",
     "Случайные события",
     "Бой",
