@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Игра/Мини руководство по созданию карт.md",
+                "file": "Персонажи/Навыки.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Мини руководство по созданию карт"
+              "title": "Навыки"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "навыки",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Закладки"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -181,10 +182,12 @@
   },
   "active": "d1eb6e02d8aed69e",
   "lastOpenFiles": [
+    "Игра.canvas",
+    "Игрок/Эффекты.md",
+    "Игра/Мини руководство по созданию карт.md",
     "Images/Pasted image 20251105233358.png",
     "Images/Pasted image 20251105233330.png",
     "Бой/Формы атак.md",
-    "Игра/Мини руководство по созданию карт.md",
     "Excalidraw/Здания.md",
     "Игра/Уведомления.md",
     "Игра/Звуки и музыка.md",
@@ -201,9 +204,7 @@
     "Бой/Награда за бой.md",
     "Бой/Гигантская разросшаяся мухоловка.md",
     "Бой/Бронированный медленный разрушитель.md",
-    "Игрок/Эффекты.md",
     "Бой/Бой.md",
-    "Игра.canvas",
     "Excalidraw/Референсы.md",
     "Excalidraw/Персонаж.md",
     "Excalidraw/Карта экранов.md",
@@ -217,7 +218,6 @@
     "Images/Pasted image 20250929193206.png",
     "Images/Pasted image 20250929193023.png",
     "Images/Pasted image 20250929193021.png",
-    "Images/Pasted image 20250929192816.png",
     "Без боя",
     "Случайные события",
     "Бой",
