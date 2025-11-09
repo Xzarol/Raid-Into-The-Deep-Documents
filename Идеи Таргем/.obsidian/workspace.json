@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Персонажи/Навыки.md",
+                "file": "Игра/Мини руководство по созданию карт.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Навыки"
+              "title": "Мини руководство по созданию карт"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "навыки",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "Закладки"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -182,8 +181,9 @@
   },
   "active": "d1eb6e02d8aed69e",
   "lastOpenFiles": [
-    "Игра.canvas",
     "Игрок/Эффекты.md",
+    "Персонажи/Навыки.md",
+    "Игра.canvas",
     "Игра/Мини руководство по созданию карт.md",
     "Images/Pasted image 20251105233358.png",
     "Images/Pasted image 20251105233330.png",
@@ -208,7 +208,6 @@
     "Excalidraw/Референсы.md",
     "Excalidraw/Персонаж.md",
     "Excalidraw/Карта экранов.md",
-    "Персонажи/Навыки.md",
     "Images/Pasted image 20251004195728.png",
     "Город/Прогресс прохождения.md",
     "Images/Pasted image 20250929194652.png",
