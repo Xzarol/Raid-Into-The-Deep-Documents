@@ -35,8 +35,7 @@
               "title": "Навыки"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,10 +193,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c5eb2f0d02ba1be3",
+  "active": "d1eb6e02d8aed69e",
   "lastOpenFiles": [
-    "Игрок/Эффекты.md",
     "Персонажи/Навыки.md",
+    "Игрок/Эффекты.md",
     "Бой/Конец боя.md",
     "Игра/Мини руководство по созданию карт.md",
     "Игра.canvas",
