@@ -34,21 +34,9 @@
               "icon": "lucide-file",
               "title": "Навыки"
             }
-          },
-          {
-            "id": "05ffac6107796164",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.3"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.3"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -206,7 +194,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "05ffac6107796164",
+  "active": "c5eb2f0d02ba1be3",
   "lastOpenFiles": [
     "Игрок/Эффекты.md",
     "Горящие задачи!.md",
