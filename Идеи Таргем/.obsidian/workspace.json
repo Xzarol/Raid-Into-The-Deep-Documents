@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d1eb6e02d8aed69e",
+            "id": "8ae7c2c0390c49a9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Игрок/Эффекты.md",
+                "file": "Город/Кузница.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Эффекты"
-            }
-          },
-          {
-            "id": "c5eb2f0d02ba1be3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Персонажи/Навыки.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Навыки"
+              "title": "Кузница"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,24 +179,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c5eb2f0d02ba1be3",
+  "active": "8ae7c2c0390c49a9",
   "lastOpenFiles": [
-    "Игрок/Эффекты.md",
-    "Персонажи/Навыки.md",
+    "Игра/Уведомления.md",
+    "Игра/Обучение в игре.md",
+    "Игра/Мини руководство по созданию карт.md",
+    "Игра/Звуки и музыка.md",
     "Горящие задачи!.md",
     "Бой/Конец боя.md",
-    "Игра/Мини руководство по созданию карт.md",
-    "Игра.canvas",
     "Images/Pasted image 20251105233358.png",
     "Images/Pasted image 20251105233330.png",
     "Бой/Формы атак.md",
-    "Excalidraw/Здания.md",
-    "Игра/Уведомления.md",
-    "Игра/Звуки и музыка.md",
-    "Игра/Карта забега.md",
-    "Персонажи/Персонажи.md",
-    "Город/Кузница.md",
-    "Персонажи/Оружие.md",
     "Бой/Уникальный бой.md",
     "Бой/Уникальный враг.md",
     "Бой/Препятствия.md",
@@ -221,11 +199,18 @@
     "Бой/Награда за бой.md",
     "Бой/Гигантская разросшаяся мухоловка.md",
     "Бой/Бронированный медленный разрушитель.md",
+    "Игрок/Эффекты.md",
     "Бой/Бой.md",
+    "Игра.canvas",
     "Excalidraw/Референсы.md",
     "Excalidraw/Персонаж.md",
     "Excalidraw/Карта экранов.md",
+    "Excalidraw/Здания.md",
+    "Персонажи/Навыки.md",
+    "Персонажи/Персонажи.md",
+    "Игра/Карта забега.md",
     "Images/Pasted image 20251004195728.png",
+    "Город/Прогресс прохождения.md",
     "Images/Pasted image 20250929194652.png",
     "Images/Pasted image 20250929194209.png",
     "Images/Pasted image 20250929193951.png",
